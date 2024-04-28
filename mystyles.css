@@ -71,3 +71,22 @@ main img { float: left;
 main ul { list-style-position: inside; }
 .clear { clear: both; }
 header, nav, main, footer { display: block; }
+
+
+.btn{
+  display: block;
+  margin: 50px auto;
+  width: fit-content;
+  border: 1px solid #000000;
+  padding: 14px 50px;
+  border-radius: 6px;
+  text-decoration: none;
+  color:#FFC425;
+  transition: background 0.5s;
+  
+  background: #000000;
+}
+.btn:hover{
+  background: #000000;
+
+}
